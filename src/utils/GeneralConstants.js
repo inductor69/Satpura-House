@@ -226,8 +226,8 @@ export const repsData = [
   new TeamIndividualDataObj(
     "Sunrit Roy Karmakar",
     {
-      facebookLink: "",
-      linkedinLink: "",
+      linkedinLink: "https://www.linkedin.com/mwlite/in/sunrit-roy-karmakar-9b3291242",
+      instagramLink: "https://instagram.com/v0odoo_child/",
     },
     "https://res.cloudinary.com/inductor/image/upload/v1655912854/Sunrit_Roy_Karmakar_2021EE30702_BSW_Rep_qwriif.jpg",
     "BSW Representative"
