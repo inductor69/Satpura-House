@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Uthaan</h1>
+  <h1>Satpura House</h1>
 
   <p>
     The frontend repository of the official
