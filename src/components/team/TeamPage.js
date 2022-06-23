@@ -101,7 +101,7 @@ function TeamPage() {
         >
           <div className="team-page-founders-wrapper team-list-wrapper-for-horizontal-scroll">
             <h3 className="team-page-heading founders-heading">
-              Initiative by
+            Secretaries
             </h3>
             <div className="team-page-founders-list-wrapper">
               <TeamTimeline
@@ -111,7 +111,7 @@ function TeamPage() {
             </div>
           </div>
           <div className="team-page-alumni-wrapper team-list-wrapper-for-horizontal-scroll">
-            <h3 className="team-page-heading">Secretaries</h3>
+            <h3 className="team-page-heading">Representatives</h3>
             <div className="team-page-alumni-list-wrapper">
               <TeamTimeline
                 timelineData={teamData.Alumni}
@@ -120,7 +120,7 @@ function TeamPage() {
             </div>
           </div>
           <div className="team-page-executives-wrapper team-list-wrapper-for-horizontal-scroll">
-            <h3 className="team-page-heading">Representatives</h3>
+            <h3 className="team-page-heading">Behind the magic</h3>
             <div className="team-page-executives-list-wrapper">
               <TeamTimeline
                 timelineData={teamData.Executives}
