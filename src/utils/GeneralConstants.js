@@ -9,7 +9,7 @@ export const allRoutes = [
   "contactus",
 ];
 
-export const mediumPostImageURL = "https://miro.medium.com/max/500/";
+export const mediumPostImageURL = "";
 
 export const teamPageColorThemes = [
   new TeamIndividualColorThemeObj("#44C4FF", "#F5FBFF", "#80D7EA"),
@@ -255,5 +255,5 @@ export const pageDescriptions = {
 
 
   EVENTS_PAGE:
-    "Uthaan has it all, from entertaining and intriguing events liked by all to interactive and competing ones for those who love a challenge.",
+    "We have it all, from entertaining and intriguing events liked by all to interactive and competing ones for those who love a challenge.",
 };
