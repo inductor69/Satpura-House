@@ -61,6 +61,16 @@ export const foundersData = [
 
 export const alumniData = [
   new TeamIndividualDataObj(
+    "Aniket Bhandare",
+    {
+      facebookLink: "https://www.facebook.com/profile.php?id=100009499674595",
+      linkedinLink: "https://www.linkedin.com/in/avbhandare/",
+      instagramLink: "https://instagram.com/a.v.bhandare?igshid=YmMyMTA2M2Y=",
+    },
+    "https://res.cloudinary.com/inductor/image/upload/v1655985197/IMG-3658_oqiosw.jpg",
+    "House Secretary"
+  ),
+  new TeamIndividualDataObj(
     "Narendra",
     {
       linkedinLink: "https://www.linkedin.com/in/narendra-burdak-45565b190/",
@@ -69,16 +79,7 @@ export const alumniData = [
     "https://res.cloudinary.com/inductor/image/upload/v1655968823/Narendra_2019ME20908_MessSecretary_mnk9ep.jpg",
     "Mess Secretary"
   ),
-  new TeamIndividualDataObj(
-    "Aniket Bhandare",
-    {
-      facebookLink: "https://www.facebook.com/profile.php?id=100009499674595",
-      linkedinLink: "https://www.linkedin.com/in/avbhandare/",
-      instagramLink: "https://instagram.com/a.v.bhandare?igshid=YmMyMTA2M2Y=",
-    },
-    "https://res.cloudinary.com/inductor/image/upload/v1655913085/AniketBhandare_2019ME20866_HouseSecretary_klzvev.jpg",
-    "House Secretary"
-  ),
+  
   new TeamIndividualDataObj(
     "Harshit Kalra",
     {
