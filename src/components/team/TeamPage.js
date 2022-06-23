@@ -99,19 +99,9 @@ function TeamPage() {
           className="team-page-primary-wrapper"
           ref={teamPagePrimaryWrapperRef}
         >
-          <div className="team-page-founders-wrapper team-list-wrapper-for-horizontal-scroll">
-            <h3 className="team-page-heading founders-heading">
-            Secretaries
-            </h3>
-            <div className="team-page-founders-list-wrapper">
-              <TeamTimeline
-                timelineData={teamData.Foundes}
-                lineColor="#F5F5F5"
-              />
-            </div>
-          </div>
+          
           <div className="team-page-alumni-wrapper team-list-wrapper-for-horizontal-scroll">
-            <h3 className="team-page-heading">Representatives</h3>
+            <h3 className="team-page-heading">Secretaries</h3>
             <div className="team-page-alumni-list-wrapper">
               <TeamTimeline
                 timelineData={teamData.Alumni}
@@ -120,11 +110,22 @@ function TeamPage() {
             </div>
           </div>
           <div className="team-page-executives-wrapper team-list-wrapper-for-horizontal-scroll">
-            <h3 className="team-page-heading">Behind the magic</h3>
+            <h3 className="team-page-heading">Representatives</h3>
             <div className="team-page-executives-list-wrapper">
               <TeamTimeline
                 timelineData={teamData.Executives}
                 lineColor="#FBC9FC"
+              />
+            </div>
+          </div>
+          <div className="team-page-executives-wrapper team-list-wrapper-for-horizontal-scroll">
+            <h3 className="team-page-heading ">
+            Behind the Magic
+            </h3>
+            <div className="team-page-executives-list-wrapper">
+              <TeamTimeline
+                timelineData={teamData.Foundes}
+                lineColor="#F5F5F5"
               />
             </div>
           </div>

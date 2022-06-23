@@ -43,7 +43,7 @@ export const errorPageContent = {
     "What you're looking for may have been misplaced in Long Term Memory",
 };
 
-export const repsData = [
+export const foundersData = [
  
   new TeamIndividualDataObj(
     "Aditya Kumar",
@@ -59,7 +59,7 @@ export const repsData = [
  
 ];
 
-export const foundersData = [
+export const alumniData = [
   new TeamIndividualDataObj(
     "Narendra",
     {
@@ -125,7 +125,7 @@ export const foundersData = [
   ),
 ];
 
-export const alumniData = [
+export const repsData = [
   new TeamIndividualDataObj(
     "Adnaan",
     {
